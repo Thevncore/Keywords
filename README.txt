@@ -68,3 +68,15 @@ PHY chip
 Network Interface Card
 Small form factor
 Infiniband
+Teredo
+6to4
+IPv4
+IPv6
+Secure SHell (SSH)
+Remote Frame Buffer
+Wireless Protected Setup
+Quick Secure Setup
+Wireless Protected Access
+Wired Equivalent Protection
+[De]Authentication
+[De]Association
