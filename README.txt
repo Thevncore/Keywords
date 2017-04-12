@@ -84,3 +84,12 @@ Wired Equivalent Protection
 Path MTU Discovery
 Client Server
 Peer to Peer
+dhcpcd
+dhclient
+iptables
+tc
+rfkill
+aircrack-ng
+Monitor Mode
+Promiscous Mode
+Managed Mode
