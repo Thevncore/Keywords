@@ -9,6 +9,7 @@ Cross Site Scripting (XSS)
 SQL Inj
 Default Password
 Guessable Password
+Exposed Password
 ARP Poisoning
 Evil Twin (Access Point)
 Evil Captive Portal
