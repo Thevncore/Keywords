@@ -93,3 +93,8 @@ aircrack-ng
 Monitor Mode
 Promiscous Mode
 Managed Mode
+MANGLE Table
+INPUT table
+FORWARD table
+PREROUTING table
+POSTROUTING table
