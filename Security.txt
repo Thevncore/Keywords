@@ -1,0 +1,19 @@
+Vulnerability
+Vulnerability Assesment
+Penetration Testing (pentest)
+Network Attack
+
+Denial Of Service (DoS)
+Distributed DoS (DDoS)
+Cross Site Scripting (XSS)
+SQL Inj
+Default Password
+Guessable Password
+ARP Poisoning
+Evil Twin
+Evil Captive Portal
+Deauth
+Heartbleeed
+SSL Strip
+Phishing
+Spear Phishing
