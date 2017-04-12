@@ -1,0 +1,20 @@
+Central Processing Unit (CPU)
+Memory Controller Hub (MCH)
+IO Controller Hub (ICH)
+Platform Controller Hub (PCH)
+
+Joint Electron Device Engineering Council (JEDEC)
+JTAG (Joint Test Action Group)
+
+Random Access Memory (RAM)
+Dynamic RAM (DRAM)
+Static RAM (SRAM)
+
+Synchronous DRAM (SDRAM)
+Single Data Rate SDRAM (SDR SDRAM)
+Double Data Rate SDRAM (DDR SDRAM)
+
+Non Volatile RAM (NVRAM)
+
+Read Only Memory (ROM)
+Programmable ROM (PROM)
