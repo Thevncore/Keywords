@@ -27,6 +27,7 @@ Open Systems Interconnection
 100BASE-T2
 100BASE-FX
 Twisted Pair
+Differential Pair
 IEEE 802.3
 Dynamic Host Config Protocol
 BOOTP
@@ -80,3 +81,6 @@ Wireless Protected Access
 Wired Equivalent Protection
 [De]Authentication
 [De]Association
+Path MTU Discovery
+Client Server
+Peer to Peer
