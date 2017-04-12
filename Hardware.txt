@@ -18,3 +18,11 @@ Non Volatile RAM (NVRAM)
 
 Read Only Memory (ROM)
 Programmable ROM (PROM)
+Erasable PROM (EPROM)
+Electrical EPROM (EEPROM)
+
+Clock rate
+Slew rate
+Rise time
+Low Voltage Differential Signaling
+Transmission Minimized Differential Signaling
