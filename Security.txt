@@ -10,10 +10,12 @@ SQL Inj
 Default Password
 Guessable Password
 ARP Poisoning
-Evil Twin
+Evil Twin (Access Point)
 Evil Captive Portal
 Deauth
 Heartbleeed
 SSL Strip
 Phishing
 Spear Phishing
+USB Killer
+Electro Magnetic Pulse 
