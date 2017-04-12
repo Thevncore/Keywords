@@ -89,7 +89,10 @@ dhclient
 iptables
 tc
 rfkill
+dnsmasq
 aircrack-ng
+uhttpd
+lighttpd
 Monitor Mode
 Promiscous Mode
 Managed Mode
@@ -98,3 +101,6 @@ INPUT table
 FORWARD table
 PREROUTING table
 POSTROUTING table
+Apache
+Apache Tomcat
+Apache Hadoop
