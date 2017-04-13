@@ -6,7 +6,7 @@ Network Attack
 Denial Of Service (DoS)
 Distributed DoS (DDoS)
 Cross Site Scripting (XSS)
-SQL Inj
+SQL Injection
 Default Password
 Guessable Password
 Exposed Password
@@ -20,3 +20,4 @@ Phishing
 Spear Phishing
 USB Killer
 Electro Magnetic Pulse 
+Bruteforce
